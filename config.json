@@ -1,8 +1,4 @@
 {
-  "prefix": "$",
-  "default_prefix": "$",
-     
- "YOUTUBE_API_KEY": "",
-    "QUEUE_LIMIT": 0,
-    "COLOR": "00FFFF"
+  "prefix": "",
+  "default_prefix": ""
 }
